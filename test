@@ -1,0 +1,27 @@
+[
+    {
+        "index": 0,
+        "timestamp": "01/01/2023",
+        "data": "Genesis Block",
+        "previousHash": "0",
+        "hash": "a18b7e74db9f3e850ce0d29903fa2a550d4b5a1d6b3efc45d724617d26f7a1a6"
+    },
+    {
+        "index": 1,
+        "timestamp": "02/01/2023",
+        "data": {
+            "amount": 4
+        },
+        "previousHash": "a18b7e74db9f3e850ce0d29903fa2a550d4b5a1d6b3efc45d724617d26f7a1a6",
+        "hash": "b014ce904c72917e6f33495e5fd1977e3b605c963ba8e07f7cc85c54e0c9a7a4"
+    },
+    {
+        "index": 2,
+        "timestamp": "03/01/2023",
+        "data": {
+            "amount": 8
+        },
+        "previousHash": "b014ce904c72917e6f33495e5fd1977e3b605c963ba8e07f7cc85c54e0c9a7a4",
+        "hash": "303e40f4f7848f01d9236d04a135af6a9b9c1db3e08b6af9fa749b125a1a967e"
+    }
+] 
